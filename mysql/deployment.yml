@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: alexisnunez957/csc468cloud:mysql
+        image: ld953642/csc468cloud:mysql
         resources:
           requests:
             cpu: 10m
